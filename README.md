@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Suraj Pr Ram 👋
 
-<!--
-**surajprram/surajprram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning and building with **AI automation, AI agents, and intelligent workflows**.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI agents and agentic workflows
+- ⚙️ AI automation with tools like n8n
+- 🔗 Connecting AI with APIs, tools, and real-world workflows
+- 🧠 Learning how to build reliable AI systems
+
+## 🛠️ Currently Learning
+
+- Python
+- n8n
+- LLMs & AI agents
+- APIs & automation
+- LangChain / LangGraph
+- Git & GitHub
+
+## 📌 Goals
+
+Build useful AI systems, share what I learn, and collaborate with other builders.
+
+---
+
+*Learning → Building → Sharing → Improving*
